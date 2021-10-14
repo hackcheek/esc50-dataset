@@ -41,8 +41,8 @@ A more thorough description of the dataset is available in the original [paper](
 
   CSV file with the following structure:
   
-  | <sub>filename</sub> | <sub>fold</sub> | <sub>target</sub> | <sub>category</sub> | <sub>esc10</sub> | <sub>src_file</sub> | <sub>take</sub> |
-  | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| <sub>filename</sub> | <sub>fold</sub> | <sub>target</sub> | <sub>category</sub> | <sub>esc10</sub> | <sub>src_file</sub> | <sub>take</sub> |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
   
   The `esc10` column indicates if a given file belongs to the *ESC-10* subset (10 selected classes, CC BY license).
 
